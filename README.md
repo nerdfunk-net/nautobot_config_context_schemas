@@ -1,2 +1,0 @@
-# nautobot_config_context_schemas
-nautobot config_context_schemas
